@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhengkz@umich.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:zhengkz@umich.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/KzZheng
