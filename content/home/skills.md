@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming"
+  name = "Programming Language"
   description = "Python, C, C++, Matlab&Simulink"
   
 [[feature]]
@@ -32,10 +32,4 @@ subtitle = ""
   name = "Tools"
   description = "Git, Pycharm, Anaconda, Jupyter"
   
-[[feature]]
-  icon = "microchip"
-  icon_pack = "fas"
-  name = "Hardware Design"
-  description = "Design Circult Schematic and Draw PCB board"  
-
 +++
