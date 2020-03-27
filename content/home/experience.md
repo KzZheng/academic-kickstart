@@ -41,4 +41,16 @@ date_format = "Jan 2006"
   * Used Bi-LSTM network to generate its mask and used the A3C algorithm to improve the separation effect, solving the problem of voices overlap in the telephone record.
   * Evaluate the quality of output audio by signal-to-noise ratio (SNR). The aforementioned model of audio super-resolution has a higher SNR than the current, best-performing algorithm. The rewards of the A3C algorithm have displayed an upward trend, which means that reinforcement learning using speech processing is feasible.
   """
+[[experience]]
+  title = "Gratuation Project"
+  company = "the University of Hong Kong"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2018-07-01"
+  date_end = "2018-09-01"
+  description = """
+  * Adopted the convolution method to conduct super-resolution reconstruction of sound signals in the time domain, which is aimed to increase the resolution of the phone recording from 8k to 16k.
+  * Used Bi-LSTM network to generate its mask and used the A3C algorithm to improve the separation effect, solving the problem of voices overlap in the telephone record.
+  * Evaluate the quality of output audio by signal-to-noise ratio (SNR). The aforementioned model of audio super-resolution has a higher SNR than the current, best-performing algorithm. The rewards of the A3C algorithm have displayed an upward trend, which means that reinforcement learning using speech processing is feasible.
+  """
 +++

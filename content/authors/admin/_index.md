@@ -29,10 +29,10 @@ education:
   courses:
   - course: MSc in Electrical and Computer Engineering
     institution: University of Michigan, Ann Arbor
-    year: 2019
+    year: 2019-Present
   - course: BSc in Electronic and Electrical Engineering
     institution: Huazhong University of Science and Technology
-    year: 2015
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
