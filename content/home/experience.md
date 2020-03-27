@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = ""
   description = """
+  **Perception and Goal-directed Manipulation by Object Affordance:**
   * Propose a new representation named Affordance Coordinate Frame that is both perceivable and executable of category-level object affordances.
   * Design CNNs to learn Affordance Coordinate Frame from RGB-D images in heavy clutter, and action primitives for completing specific tasks.
   """
@@ -37,20 +38,21 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
   description = """
+  **Chinese Speech Separation System:**
   * Adopted the convolution method to conduct super-resolution reconstruction of sound signals in the time domain, which is aimed to increase the resolution of the phone recording from 8k to 16k.
   * Used Bi-LSTM network to generate its mask and used the A3C algorithm to improve the separation effect, solving the problem of voices overlap in the telephone record.
   * Evaluate the quality of output audio by signal-to-noise ratio (SNR). The aforementioned model of audio super-resolution has a higher SNR than the current, best-performing algorithm. The rewards of the A3C algorithm have displayed an upward trend, which means that reinforcement learning using speech processing is feasible.
   """
 [[experience]]
-  title = "Gratuation Project"
-  company = "the University of Hong Kong"
+  title = "Gratuation Research"
+  company = "Huazhong University of Science and Technology"
   company_url = ""
-  location = "Hong Kong"
-  date_start = "2018-07-01"
-  date_end = "2018-09-01"
+  location = "Wuhan"
+  date_start = "2018-11-01"
+  date_end = "2019-06-01"
   description = """
-  * Adopted the convolution method to conduct super-resolution reconstruction of sound signals in the time domain, which is aimed to increase the resolution of the phone recording from 8k to 16k.
-  * Used Bi-LSTM network to generate its mask and used the A3C algorithm to improve the separation effect, solving the problem of voices overlap in the telephone record.
-  * Evaluate the quality of output audio by signal-to-noise ratio (SNR). The aforementioned model of audio super-resolution has a higher SNR than the current, best-performing algorithm. The rewards of the A3C algorithm have displayed an upward trend, which means that reinforcement learning using speech processing is feasible.
+  **Sub-Module Design of Middle Voltage Converter Based on the Modular Multilevel Converter Structure:**
+  * Introduce the working principle and characteristic of the modular multilevel converter, and build mathematical model for hardware selection.
+  * Design circult schematic and build a hardware experiment platform, and successfully working with 400 Voltage.
   """
 +++
